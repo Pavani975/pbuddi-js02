@@ -55,7 +55,7 @@ document.getElementById("buttonAdd").onclick = function() {
 }
 
 document.getElementById("buttonMinus").onclick = function() {
-   runcalculator("-");
+   runCalculator("-");
 }
 
 document.getElementById("buttonMultiply").onclick = function() {
